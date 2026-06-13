@@ -1,0 +1,26 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "trlVIYrxw1qbHdAZKIBpE"
+uri = "file://artifacts/gym-landing/public/hero.png"
+type = "image"
+title = "Cinematic dark gym hero image"
+
+[[generated]]
+id = "ADbhv-oXOdQ6uuwPqqW_t"
+uri = "file://artifacts/gym-landing/public/crossfit.png"
+type = "image"
+title = "Crossfit training area"
+
+[[generated]]
+id = "KbWXX0w3hGylKS0Ws1cYg"
+uri = "file://artifacts/gym-landing/public/kickboxing.png"
+type = "image"
+title = "Kickboxing heavy bags"
+
+[[generated]]
+id = "6aDkvtRCYaYq35hUV-Dmg"
+uri = "file://artifacts/gym-landing/public/facility.png"
+type = "image"
+title = "Modern cardio facility"
